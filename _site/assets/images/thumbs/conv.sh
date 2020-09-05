@@ -1,2 +1,2 @@
 #!/bin/bash
-for i in *.jpg; do convert -thumbnail 500 $i $i; done;
+for i in *.jpg; do convert -thumbnail 600 $i $i; done;
